@@ -1,6 +1,6 @@
 <h1># front_end_website_practice</h1>
-<strong>web programming Assignment.</strong>
-<strong>Have use bootstrap to implement this</strong>
+<p><strong>web programming Assignment.</strong></p>
+<p><strong>Have used bootstrap to implement this</strong></p>
 
 <p>i. Initial homepage with an image slider of three (3) or more images.</p>
 <p>Clicking on any of the images in the slider will direct the user to the
