@@ -39,3 +39,5 @@ the header cells), user will be able to add or edit the cell’s content .</p>
 <p>1. If the user holds down the Alt key while moving the mouse, the table
 cell (all except the header cells) over which the mouse moves must
 have its background color set to blue with red font color </p>
+
+![capture](https://cloud.githubusercontent.com/assets/12582488/23338182/56dd7120-fbc9-11e6-9835-7f3f044e0ef0.PNG)
