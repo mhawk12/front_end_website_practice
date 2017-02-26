@@ -2,9 +2,9 @@
 web programming Assignment.
 
 
-i. Initial homepage with an image slider of three (3) or more images.
-Clicking on any of the images in the slider will direct the user to the
-page in the web-site related to that image.
+<p>i. Initial homepage with an image slider of three (3) or more images.</p>
+<p>Clicking on any of the images in the slider will direct the user to the
+page in the web-site related to that image.</p>
 ii. A navigation bar containing five (5) entries (Home, Product Page1,
 Product Page2, Product Page3, Contact Us Page)
 iii. This page uses JavaScript and jQuery to implement the following effects:
